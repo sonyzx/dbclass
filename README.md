@@ -1,4 +1,4 @@
 dbclass
 =======
 
-Database PHP Class
+This is just a secure database PHP Class
