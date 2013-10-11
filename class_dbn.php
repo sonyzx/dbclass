@@ -7,7 +7,7 @@
  * @param DATABASE_USER const (Databseuser)
  * @param DATABASE_PASS const (Userpass)
  * @param DATABASE_HOST const (Databasehostaddress)
- * @param DATABASE_NAME const (Databsename)
+ * @param DATABASE_NAME const (Databasename)
  */
 
 
